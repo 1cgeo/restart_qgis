@@ -1,0 +1,8 @@
+[general]
+name=Restart project
+description=restart the current project
+version=0.1.0
+author=1cgeo
+email=
+qgisMinimumVersion=3.20
+qgisMaximumVersion=3.99
